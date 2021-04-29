@@ -1,0 +1,14 @@
+/home/kishan/github_graphql_client/build/linux/debug/CMakeFiles/install/strip.dir
+/home/kishan/github_graphql_client/build/linux/debug/CMakeFiles/edit_cache.dir
+/home/kishan/github_graphql_client/build/linux/debug/CMakeFiles/github_graphql_client.dir
+/home/kishan/github_graphql_client/build/linux/debug/CMakeFiles/rebuild_cache.dir
+/home/kishan/github_graphql_client/build/linux/debug/CMakeFiles/list_install_components.dir
+/home/kishan/github_graphql_client/build/linux/debug/CMakeFiles/install/local.dir
+/home/kishan/github_graphql_client/build/linux/debug/CMakeFiles/install.dir
+/home/kishan/github_graphql_client/build/linux/debug/flutter/CMakeFiles/install/strip.dir
+/home/kishan/github_graphql_client/build/linux/debug/flutter/CMakeFiles/install/local.dir
+/home/kishan/github_graphql_client/build/linux/debug/flutter/CMakeFiles/flutter_assemble.dir
+/home/kishan/github_graphql_client/build/linux/debug/flutter/CMakeFiles/edit_cache.dir
+/home/kishan/github_graphql_client/build/linux/debug/flutter/CMakeFiles/rebuild_cache.dir
+/home/kishan/github_graphql_client/build/linux/debug/flutter/CMakeFiles/list_install_components.dir
+/home/kishan/github_graphql_client/build/linux/debug/flutter/CMakeFiles/install.dir
